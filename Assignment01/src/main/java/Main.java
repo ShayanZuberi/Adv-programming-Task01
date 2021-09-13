@@ -6,7 +6,7 @@ public class Main {
     	Bank bank = new Bank();
     	String username = "ShayanZuberi";
     	String password = "banking101";
-    	boolean loginSuccess = false;
+    	boolean loginSuccess = false; 
     	
     	while(loginSuccess == false) {
     		System.out.println("Please enter admin username: ");
