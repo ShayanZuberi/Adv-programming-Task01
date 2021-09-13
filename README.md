@@ -1,2 +1,1 @@
-# TestMaven
-Testing my first Maven project along with github integration with eclipse
+Banking System as Advanced programming course task 01.
